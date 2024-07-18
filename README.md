@@ -18,5 +18,3 @@ Udemy Course</a>. Support the channel for only $13
   - fontawesome
   - MongoDB
   - Mongoose 
-
-target="_blank">Free Udemy Course</a>
