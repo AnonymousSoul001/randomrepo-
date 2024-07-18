@@ -19,11 +19,4 @@ Udemy Course</a>. Support the channel for only $13
   - MongoDB
   - Mongoose 
 
-# Want to add authentication? Check out our free Udemy Course! Next Auth Tutorial Video
-- Free Using link below.
-- Covers rolling your own auth system and using providers like github and google.
-- An FREE! Updated version can be found on Udemy by clicking the link <a href="https://www.udemy.com/course/nextauth-nextjs-cc/?couponCode=C9622654181134A4AE79" target="_blank">Free Udemy Course</a>
-
-## Contact!
-- YouTube <a href="https://www.youtube.com/claritycoders" target="_blank">Clarity Coders</a>
-- Chat with me! <a href="https://discord.gg/cAWW5qq" target="_blank">Discord</a>
+target="_blank">Free Udemy Course</a>
